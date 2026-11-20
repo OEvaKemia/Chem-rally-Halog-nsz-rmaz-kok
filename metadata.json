@@ -1,0 +1,6 @@
+{
+  "name": "CHEM RALLY",
+  "description": "3D-s böngészős ralijáték hegyvidéki murvás pályával, valódi járműfizikával és érintőképernyős vezérléssel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
